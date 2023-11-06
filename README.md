@@ -3,6 +3,9 @@
 <b>Link to the Project Process Documentation</b>
 * https://docs.google.com/document/d/1H2qxMo3tOgAKAgUkt6LyDFTwLJdi3I1EM3dbplW_i-4/edit?usp=sharing
 
+<b>Work In Progress Dashboard for Proof of Concept Data</b>
+* https://public.tableau.com/app/profile/kevin.gregersen/viz/WIP_MarketingSegmentProjectDashboard/Dashboard1?publish=yes
+
 <b>Areas to Further this Project</b>
 _Option 1_
 * Compile macroeconomic data over similar time period 
