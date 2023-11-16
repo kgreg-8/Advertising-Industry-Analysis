@@ -22,5 +22,5 @@ _Option 3_
 >>* Can lead to comparison of different digital offerings & identification of core drivers/systems for displaying relevant ads.
 
 <p align="left">
-  <img src="Ad_Industry_Overview_Dashboard_poc.jpeg" width="800" title="hover text">
+  <img src="Ad_Industry_Overview_Dashboard_poc.png" width="800" title="hover text">
 </p>
