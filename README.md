@@ -20,3 +20,7 @@ _Option 3_
 >* What tools are they using? How may it help others in parallel industries and smaller competitors?
 >* Ex: New York Times: print vs digital ads - digital is already 61% of ad revenue. What is NYT offering?
 >>* Can lead to comparison of different digital offerings & identification of core drivers/systems for displaying relevant ads.
+
+<p align="left">
+  <img src="Ad_Industry_Overview_Dashboard_poc.jpeg" width="800" title="hover text">
+</p>
